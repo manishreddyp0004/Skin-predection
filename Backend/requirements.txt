@@ -1,10 +1,11 @@
-# flask
-# reportlab
-# firebase_admin
-# tensorflow
-# numpy
-# PIL
-# datetime
+flask
+flask-cors
+numpy
+pillow
+tensorflow==2.12.0
+gunicorn
+
+
 
 
 # --- Core ---
